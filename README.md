@@ -42,11 +42,11 @@ Run the following command:
   <tr>
     <td style="padding-right: 20px; text-align: center; border: none;">
       <strong>Schedule Page 1:</strong><br><br>
-      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Homescreen.png?raw=true" alt="Homescreen" height="400"/>
+      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Page1.png?raw=true" alt="Homescreen" height="400"/>
     </td>
     <td style="border: none; padding-left: 20px; text-align: center;">
       <strong>Schedule Page 2:</strong><br><br>
-      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Schedule.png?raw=true" alt="Schedule" height="400"/>
+      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Page2.png?raw=true" alt="Schedule" height="400"/>
     </td>
   </tr>
 </table>
