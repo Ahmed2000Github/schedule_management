@@ -38,9 +38,18 @@ Run the following command:
         flutter run
    ```
 ### 📁 Screenshots
-Schedule Page 1 : ![Alt text](path/to/image)
-
-Schedule Page 2 : ![Alt text](path/to/image)
+<table style="border-collapse: none; width: 100%;border: none;">
+  <tr>
+    <td style="padding-right: 20px; text-align: center; border: none;">
+      <strong>Schedule Page 1:</strong><br><br>
+      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Homescreen.png?raw=true" alt="Homescreen" height="400"/>
+    </td>
+    <td style="border: none; padding-left: 20px; text-align: center;">
+      <strong>Schedule Page 2:</strong><br><br>
+      <img src="https://github.com/Ahmed2000Github/schedule_management/blob/master/screenshots/Schedule.png?raw=true" alt="Schedule" height="400"/>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Libraries Used
 Flutter: Framework for building cross-platform apps.
